@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sikuli">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/external_jar/sikuli" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/external_jar/sikuli" recursive="false" />
+  </library>
+</component>
